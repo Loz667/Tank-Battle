@@ -8,7 +8,8 @@
 				"C:/Users/loren/Tank-Battle/ToonTanksProjectSetup_4.25/ToonTanks/Content/ComponentsActor.uasset",
 				"C:/Users/loren/Tank-Battle/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap",
 				"C:/Users/loren/Tank-Battle/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
-				"C:/Users/loren/Tank-Battle/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset"
+				"C:/Users/loren/Tank-Battle/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"C:/Users/loren/Tank-Battle/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset"
 			]
 		}
 	]
